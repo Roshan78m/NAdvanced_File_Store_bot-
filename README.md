@@ -1,4 +1,4 @@
-# Hunters & Mayhem's-file-sharing-Modified
+# Animation hub & hub network -file-sharing-Modified
 
 ![image](https://github.com/Sahil0976/MultiForce-Sub/assets/97865856/c9cd46d1-e48d-4276-9b39-ac8e3d08ffc4)
 
@@ -7,12 +7,12 @@
 ##
 
 **Credit - [@CodeXbotz](https://t.me/CodeXBotz)**
-**[@Anime_X_Hunters](https://t.me/Anime_X_Hunters) & [@Mayhem_Bots](https://t.me/Mayhem_Bots)**
+**[@Anime_X_Hunters](https://t.me/Animation_hub_b) & [@Mayhem_Bots](https://t.me/Animation_hub_a)**
 
 
 
 ### Features
-- Multi Force Sub Modified Of CodeXBotz Created By - **[@Its_Oreki_Hotarou](https://t.me/@Its_Oreki_Hotarou) & [@Eren_is_Yeager](https://t.me/Eren_is_Yeager)**
+- Multi Force Sub Modified Of CodeXBotz Created By - **[@Yuta_a_h](https://t.me/@yuta_a_h) & [@Yuta_A_h](https://t.me/Yuta_a_h)**
 - Fully customisable.
 - Customisable welcome & Forcesub messages.
 - More than one Posts in One Link.
